@@ -1,0 +1,36 @@
+body {
+    background: gainsboro;
+    font-family: 'Comfortaa', cursive;
+}
+
+.header_div {
+    background: darkgray;
+    color: white;
+}
+
+.header_div h3 {
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Comfortaa', cursive;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: 30px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgba(104, 99, 105, 0.779);
+    background: white;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
